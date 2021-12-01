@@ -1,1 +1,1 @@
-# verbose-goggles
+The classifier used in this is Logistic Regression. In this seaborn library that uses matplotlib is used to plot graphs and pandas is used for reading the dataset. I am getting 80% accuracy in this project through Logistic Regression.
